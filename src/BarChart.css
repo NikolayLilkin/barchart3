@@ -1,0 +1,15 @@
+.bar:hover{
+    fill: white;
+}
+.d3-tooltip{
+    background: #B3697A;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    padding: 2px;
+}
